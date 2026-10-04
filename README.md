@@ -1,24 +1,24 @@
 # 👩‍💻 Laura Casado
 
-Data Scientist | Machine Learning | Analytics | Business-Oriented AI
+Data Analyst | Data Business Analyst
 
 ---
 
 ## 👋 Sobre mí
 
-Data Scientist con enfoque en resolución de problemas de negocio mediante análisis de datos, modelado predictivo y automatización.  
-Experiencia en extracción, transformación y análisis de datos, desarrollo de modelos de Machine Learning y comunicación de resultados a perfiles no técnicos.
+I connect data, technology and business goals to deliver practical solutions and measurable impact.
 
 ---
 
 ## 🛠 Tecnologías y Herramientas
 
-- **Lenguajes:** Python, SQL  
-- **Machine Learning:** Scikit-learn, XGBoost, LightGBM  
-- **Análisis:** Pandas, NumPy  
-- **Visualización:** Matplotlib, Seaborn, Power BI  
+- **Data Visualization:** Power BI, Tableau
+- **Lenguajes:** Python, SQL   
+- **Análisis:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn, XGBoost, LightGBM
+- **Visualización:** Matplotlib, Seaborn 
 - **Bases de datos:** PostgreSQL, SQLite  
-- **Otros:** Git, APIs
+- **Tools:** Power Automate, GitHub, Jupyter Notebook, VS Code
 
 ---
 
