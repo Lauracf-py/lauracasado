@@ -4,25 +4,25 @@ Data Analyst | Data Business Analyst
 
 ---
 
-## 👋 Sobre mí
+## 👋 About Me
 
 I connect data, technology and business goals to deliver practical solutions and measurable impact.
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 Technical Skills
 
 - **Data Visualization:** Power BI, Tableau
-- **Lenguajes:** Python, SQL   
-- **Análisis:** Pandas, NumPy
+- **Programming:** Python, SQL   
+- **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-learn, XGBoost, LightGBM
-- **Visualización:** Matplotlib, Seaborn 
-- **Bases de datos:** PostgreSQL, SQLite  
-- **Tools:** Power Automate, GitHub, Jupyter Notebook, VS Code
+- **Data Visualization:** Matplotlib, Seaborn 
+- **Databases:** PostgreSQL, SQLite  
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power Automate
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
 ### 🔹 Customer Churn Prediction
 Modelo de clasificación para predecir abandono de clientes.  
@@ -49,11 +49,12 @@ Análisis completo de dataset real con insights accionables.
 
 ---
 
-## 📊 Enfoque Profesional
+## 📊 Professional Approach
 
-- Traduzco problemas de negocio en soluciones analíticas.
-- Priorizo interpretabilidad y métricas alineadas con impacto real.
-- Documentación clara y código estructurado.
+- Translating business requirements into analytical solutions.
+- Combining technical analysis with practical business understanding.
+- Focusing on data quality, interpretability and measurable outcomes.
+- Building structured, reproducible and well-documented projects.
 
 ---
 
